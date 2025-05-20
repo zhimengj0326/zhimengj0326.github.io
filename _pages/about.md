@@ -21,14 +21,14 @@ My research interests lie in the broad area of:
 ## Contact
 
 Email: zhimengj at tamu dot edu  
-[Curriculum Vitae](http://zhimengj0326.github.io/files/CV_ZM.pdf)
+[Curriculum Vitae](http://zhimengj0326.github.io/files/Zhimeng_04_25.pdf)
 
 ## News
 
 <div class="news-container" style="height:550px; overflow:auto; background:#f6f6f6; padding:15px; border-radius:5px; margin-top:20px;">
-<p><span style="color:#8B0000">[2025/5]</span> One papers is accepted by ACL 2025 (Main).</p>
+<p><span style="color:#8B0000">[2025/5]</span> One paper is accepted by ACL 2025 (Main).</p>
 
-<p><span style="color:#8B0000">[2025/5]</span> One papers is accepted by KDD 2025.</p>
+<p><span style="color:#8B0000">[2025/5]</span> One paper is accepted by KDD 2025.</p>
 
 <p><span style="color:#8B0000">[2025/5]</span> Two papers are accepted by ICML 2025.</p>
 

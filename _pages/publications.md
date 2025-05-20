@@ -11,12 +11,6 @@ author_profile: true
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Zou Na, Ali Mostafavi and Xia Hu. -->
 
 
-
-
-<!-- <b>[You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs](??)
-</b><br>Xiaotian Han, Tianlong Chen, Kaixiong Zhou <b>Zhimeng Jiang</b>, Zhangyang Wang, and Xia Hu.  -->
-
-
 ## Conference/Journal Papers
 <b>[MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation]()</b><br>
 Chia-Yuan Chang, <b>Zhimeng Jiang</b>, Vineeth Rakesh, Menghai Pan, Chin-Chia Michael Yeh, Guanchu Wang, Mingzhi Hu, Zhichao Xu, Yan Zheng, Mahashweta Das, Na Zou.<br>
@@ -56,7 +50,7 @@ Neural Information Processing Systems(**NeurIPS**), 2024
 International Conference on Machine Learning (**ICML**), 2024. 
 
 <b>[LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning]()
-</b><br> Hongye Jin*, Xiaotian Han*, Jingfeng Yang, <b>Zhimeng Jiang</b>, Zirui Liu, Chia-Yuan Chang, Huiyuan Chen, Xia Hu , Mahashweta Das, Xia Hu. <br>
+</b><br> Hongye Jin, Xiaotian Han, Jingfeng Yang, <b>Zhimeng Jiang</b>, Zirui Liu, Chia-Yuan Chang, Huiyuan Chen, Xia Hu , Mahashweta Das, Xia Hu. <br>
 International Conference on Machine Learning (**ICML**), 2024. 
 
 <b>[Chasing Fairness in Graphs: A GNN Architecture Perspective]()
@@ -82,7 +76,7 @@ Neural Information Processing Systems(**NeurIPS**), 2023
 
 
 <b>[Editable Graph Neural Network for Node Classifications](https://arxiv.org/pdf/2305.15265.pdf)
-</b><br>Zirui Liu*, </b>Zhimeng Jiang</b>*, Shaochen Zhong, Kaixiong Zhou, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu <br>
+</b><br>Zirui Liu\*, <b>Zhimeng Jiang\*</b>, Shaochen Zhong, Kaixiong Zhou, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu <br>
 In The 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining on Mining and Learning with Graphs Workshop, 21–27 Jul 2023
 
 
